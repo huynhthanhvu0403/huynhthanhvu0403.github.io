@@ -4,7 +4,7 @@
 🎂 Ngày sinh: 18/04/2003  
 🎓 MSSV: B2103485  
 🏫 Lớp: DI2195A2  
-💻 Chuyên ngành: Hệ thống thông tin
+💻 Chuyên ngành: Hệ thống thông tin K47
 
 ---
 
@@ -16,7 +16,6 @@
 ## 🎓 Học vấn
 **Đại học Cần Thơ**  
 Chuyên ngành: Hệ thống thông tin  
-Niên khóa: 2021 – 2025 (dự kiến)  
 Lớp: DI2195A2
 
 ---
