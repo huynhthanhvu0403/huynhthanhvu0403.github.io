@@ -21,7 +21,7 @@ Lớp: DI2195A2
 ---
 
 ## 🛠 Kỹ năng
-- Ngôn ngữ: PHP, JavaScript
+- Ngôn ngữ: PHP, JavaScript, C#
 - Web: HTML/CSS
 - Git & GitHub
 
